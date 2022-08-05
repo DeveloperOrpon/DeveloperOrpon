@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm DeveloperOrpon</h1>
 <h3 align="center">A passionate Android Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeveloperOrpon&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeveloperOrpon&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 
-<a href="https://github.com/DeveloperOrpon/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DeveloperOrpon?color=2b9348"></a>
+</p>
 
 - 🌱 I’m currently learning **Android (Kotlin and Java) , Jetpack Compose**
 
