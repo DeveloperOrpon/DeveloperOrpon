@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeveloperOrpon&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 
 </p>
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 
 - 🌱 I’m currently learning **Android (Kotlin and Java) , Jetpack Compose**
 
