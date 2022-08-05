@@ -6,8 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeveloperOrpon&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeveloperOrpon&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+  
  <a href="https://ko-fi.com/X8X48056Q">
+   <img src="https://komarev.com/ghpvc/?username=DeveloperOrpon&label=Profile%20views&color=0e75b6&style=flat"style="max-width: 100%"; alt="" />
    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
  </a>
 </p>
