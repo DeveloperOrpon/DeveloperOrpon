@@ -40,3 +40,6 @@
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/DeveloperOrpon?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
+# Thanks For Visiting My Profile 👋
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
