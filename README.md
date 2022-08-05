@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngmart.com/files/13/Android-Logo-PNG-File.png" alt="react" width="80" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="react" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="react" width="70" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="react" width="40" height="40"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeveloperOrpon&show_icons=true&locale=en" alt="DeveloperOrpon" /></p>
