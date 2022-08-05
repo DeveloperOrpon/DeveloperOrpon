@@ -38,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeveloperOrpon&show_icons=true&locale=en" alt="DeveloperOrpon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperOrpon&" alt="DeveloperOrpon" /></p>
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/DeveloperOrpon?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
