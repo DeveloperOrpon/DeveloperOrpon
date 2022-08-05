@@ -35,10 +35,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="typescript" width="40" height="40"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeveloperOrpon&show_icons=true&locale=en" alt="DeveloperOrpon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperOrpon&" alt="DeveloperOrpon" /></p>
-
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/DeveloperOrpon?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
