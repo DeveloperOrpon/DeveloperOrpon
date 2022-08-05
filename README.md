@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngmart.com/files/13/Android-Logo-PNG-File.png" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngmart.com/files/13/Android-Logo-PNG-File.png" alt="react" width="80" height="40"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeveloperOrpon&show_icons=true&locale=en" alt="DeveloperOrpon" /></p>
 
