@@ -4,9 +4,12 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeveloperOrpon&label=Profile%20views&color=0e75b6&style=flat" alt="" />
-
 </p>
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
+<p align="center">
+ <a href="https://ko-fi.com/X8X48056Q">
+   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
+ </a>
+</p>
 
 - 🌱 I’m currently learning **Android (Kotlin and Java) , Jetpack Compose**
 
