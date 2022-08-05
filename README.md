@@ -13,6 +13,8 @@
 
 - 📫 Reach me anytime at **Social Media That Given Bellow**
 
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 [![Facebook Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Orpon.H) 
