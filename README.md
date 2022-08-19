@@ -8,6 +8,9 @@
    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
  </a>
 </p>
+<a href="https://github.com/DeveloperOrpon/DeveloperOrpon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperOrpon&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 - 🌱 I’m currently learning **Android (Kotlin and Java) , Jetpack Compose**
 
@@ -40,9 +43,6 @@
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/DeveloperOrpon?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
-<a href="https://github.com/DeveloperOrpon/DeveloperOrpon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperOrpon&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 # Thanks For Visiting My Profile 👋
 
