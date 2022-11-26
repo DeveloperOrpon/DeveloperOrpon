@@ -9,7 +9,7 @@
  </a>
 </p>
 
-- 🌱 I’m currently learning **Android (Kotlin and Java) , Jetpack Compose**
+- 🌱 I’m currently learning **Android Development With Flutter In SEIP,**
 
 - 👨‍💻 All of my projects are available at Github.
 
