@@ -9,7 +9,7 @@
  </a>
 </p>
 
-- 🌱 I’m currently learning **Android Development With Flutter In SEIP,**
+- 🌱 I’m currently learning **Android Development with Flutter in SEIP,**
 
 - 👨‍💻 All of my projects are available at Github.
 
