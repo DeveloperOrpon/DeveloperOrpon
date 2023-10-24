@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm DeveloperOrpon</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20Am%20A%20Flutter%20Developer(Android_IOS)%20Android%20Developer;Experienced%20UI%2FUX%20Designer;I%20Am%20From%20Bangladesh;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=26"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer(Android_IOS)%20Android%20Developer;Experienced%20UI%2FUX%20Designer;I%20Am%20From%20Bangladesh;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=26"></a>
 </p>
 <p align="left"> 
  <a href="https://ko-fi.com/orpon360)">
