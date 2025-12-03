@@ -10,8 +10,7 @@
 </p>
 <p align="left"> 
  <a href="https://orpon-a3e2a.web.app">
-   <img src="https://komarev.com/ghpvc/?username=DeveloperOrpon&label=Profile%20views&color=0e75b6&style=flat"style="max-width: 100%"; alt="" />
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
+   <img src="https://cdn-icons-png.flaticon.com/128/12345/12345659.png" style="max-width: 100%;">
  </a>
 </p>
 
