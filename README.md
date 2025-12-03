@@ -4,11 +4,9 @@
 </p>
 ## 📫 My Portfolio:
 <p align="left">
-  <a href="https://orpon-a3e2a.web.app" target="_blank">
-    <img src="https://www.flaticon.com/free-icon/tap-here_4470946?related_id=4470946" alt="My Portfolio" width="24" height="24" style="vertical-align: middle;">
-  </a>
+  
   <span style="font-size: 14px; margin-left: 8px;">
-    <a href="https://orpon-a3e2a.web.app" target="_blank" style="color: red;">👉 Tap Here</a>
+    <a href="https://orpon-a3e2a.web.app" target="_blank" style="color: red;">👉 Website Link</a>
   </span>
 </p>
 
