@@ -1,14 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mofizol Hasan Orpon</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Flutter%20Developer;Android%20AND%20IOS%20Development;I%20Am%20From%20Bangladesh;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=26"></a>
-</p>
-## 📫 My Portfolio:
-<p align="left">
-  
-  <span style="font-size: 14px; margin-left: 8px;">
-    <a href="https://orpon-a3e2a.web.app" target="_blank" style="color: red;">🌐 👉 Website Link</a>
-  </span>
-</p>
+
 
 
 <p align="left"> 
@@ -67,3 +60,14 @@
 # Thanks For Visiting My Profile 👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
+
+
+</p>
+## 📫 My Portfolio:
+<p align="left">
+  
+  <span style="font-size: 14px; margin-left: 8px;">
+    <a href="https://orpon-a3e2a.web.app" target="_blank" style="color: red;">🌐 👉 Website Link</a>
+  </span>
+</p>
